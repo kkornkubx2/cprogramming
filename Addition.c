@@ -16,6 +16,7 @@ void main (){
     printf("output is %d\n", total);
 
     printf("kkorn");
+    printf("age 19");
 
 
 /* End Addition */
