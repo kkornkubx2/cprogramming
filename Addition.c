@@ -15,6 +15,8 @@ void main (){
     total = x + y;
     printf("output is %d\n", total);
 
+    printf("kkorn");
+
 
 /* End Addition */
 
